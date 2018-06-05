@@ -159,7 +159,7 @@ bar {
 bindsym $mod+q workspace back_and_forth
 
 # Apps
-bindsym $mod+c exec chromium
+bindsym $mod+c exec google-chrome
 bindsym $mod+t exec atom
 
 # Lock and suspend
